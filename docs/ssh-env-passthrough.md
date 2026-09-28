@@ -49,7 +49,7 @@ The Claude Agent SDK wraps every bash command in a macOS `sandbox-exec` with net
 Prerequisites: Rust stable, Node.js 20+, pnpm 9+.
 
 ```bash
-git clone git@github.com:mariowabnig/panes.git
+git clone git@github.com:northpixelworks/panes.git
 cd panes
 git checkout fix/pass-through-auth-env-vars
 pnpm install
